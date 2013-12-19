@@ -1,0 +1,9 @@
+{
+    "name": "handle-node-express",
+    "description": "Simple node setup with express and handlebars.js",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "3.x",
+        "hbs":"*"
+    }
+}

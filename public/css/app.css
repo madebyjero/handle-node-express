@@ -1,0 +1,32 @@
+body {
+    font: 16px "Helvetica Neue", "helvetica", arial, san-serif;
+}
+p, a {
+    font-size: 200;
+}
+p {
+    color: #bbbbbb;
+}
+a {
+    color: #ddd;
+}
+footer {
+    margin-top: 10em;
+}
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+.greeting {
+    margin: 4em auto;
+    text-align: center;
+}
+.helper-text {
+    color: #eee;
+}
+.text-center {
+    text-align: center;
+}
+.text-sm {
+    font-size: 80%;
+}
