@@ -1,6 +1,8 @@
 handle-node-express
 ===================
 
+Credit to: Raymond Camden for making this possible with his exellent tutorial http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/
+
 Simple template for using Node.js with express and handlebars
 
 This template has been setup mainly for my own use, but anyone can use it to get started with a simple stripped down application without any fancy stuff, and was created as a starting point for learning more about Node.js + Express.js + handlebars.js
